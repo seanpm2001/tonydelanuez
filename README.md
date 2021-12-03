@@ -2,9 +2,8 @@
 ## I like working on:
 
 - **Systems Software**: Operating Systems, Performance Engineering
-- **Infrastructure**: Running software reliably at scale, building tools and automation for large systems, k8s
-- Microservice Architecture
-- **Security**: AppSec/NetSec/InfoSec
+- **Infrastructure**: k8s, Containers, CI/CD
+- **Security**: Infra/Infosec
 - **Programming Languages**: Python, Go, C/C++
 
 
